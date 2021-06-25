@@ -1,0 +1,32 @@
+{
+    "name": "KoffeeSwap",
+    "logo": "https://ipfs.io/ipfs/QmTH14sd4LHdyBHhEai7ZLUeU1eVMP9HW9pPbwCPXgFtVs",
+    "description": "A decentralized non-costudial automated market maker exchange for the KuCoin Community Chain complete with swaps, transaction lists, and charts.",
+    "category": "exchange",
+    "website": "https://koffeeswap.exchange",
+    "audit": "https://docs.koffeeswap.finance/contracts/audits",
+    "contracts": [
+        {
+            "remark": "KoffeeSwap Factory",
+            "address": "0xC0fFeE00000e1439651C6aD025ea2A71ED7F3Eab"
+        },
+        {
+            "remark": "KoffeeSwap Router",
+            "address": "0xc0fFee0000C824D24E0F280f1e4D21152625742b"
+        }
+    ],
+    "links": [
+        {
+            "type": "twitter",
+            "url": "https://twitter.com/koffeeswap"
+        },
+        {
+            "type": "telegram",
+            "url": "https://t.me/koffeeswap"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/KoffeeSwap"
+        }
+    ]
+}
